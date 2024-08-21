@@ -43,7 +43,6 @@ I started with building the skeleton of the app with HTML only, I then used CSS 
 
 - Semantic HTML5 markup
 - CSS custom properties
-- CSS Grid
 - javaScript
 
 ## Author
