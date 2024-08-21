@@ -34,7 +34,7 @@ Users are able to:
 
 ### Link
 
-- Live Site URL: [Daily Weather](https://daily-weather-forcast-webapp.netlify.app)
+- Live Site URL: [Daily Weather](https://daily-weather-forecast-webapp.netlify.app)
 
 ## My process
 I started with building the skeleton of the app with HTML only, I then used CSS for the styling of the app. I added functionality with javaScript; fetch, temperature conversion, Selectors and so on. 
