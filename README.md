@@ -29,12 +29,12 @@ Users are able to:
 
 ### Screenshot
 
-![](/images/Screenshot%20(119).png)
-![](/images/Screenshot%20(128).png)
+![](/images/screenshot-1.png)
+![](/images/screenshot-2.png)
 
 ### Link
 
-- Live Site URL: [Daily Weather](https://daily-weather-forcast-webapp.netlify.app/)
+- Live Site URL: [Daily Weather](https://daily-weather-forcast-webapp.netlify.app)
 
 ## My process
 I started with building the skeleton of the app with HTML only, I then used CSS for the styling of the app. I added functionality with javaScript; fetch, temperature conversion, Selectors and so on. 
